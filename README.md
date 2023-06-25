@@ -1,3 +1,3 @@
 ## Hello there, welcome to Bazara 👋
 
-https:/bazara.co.mz
+https://bazara.co.mz
